@@ -8,7 +8,9 @@ This project introduces the following networking concepts:
 - TCP layer
 
 The exercise required to complete this project is included in [net_practice.1.4.tgz](https://github.com/mseong123/netpractice/blob/7a68aa57ce160fc63ff6692cf7797d973e610f49/net_practice.1.4.tgz) link. 
-To run the program, download and unzip the file. Open index.html in web browser. The json files (level 1 to level 10) is the answer to the exercises. 
+To run the exercise, download and unzip the file. Open index.html in web browser. The json files (level 1 to level 10) is the answer to the exercises. 
+
+The exercise requirement involves the configuration of IP addresses and subnet mask to enable data to flow through each node.
 
 ## Status
 
